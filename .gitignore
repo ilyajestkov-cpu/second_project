@@ -23,3 +23,5 @@ Thumbs.db  # Windows
 .DS_Store  # macOS
 #пр заданию
 tmp_data.txt
+#paroli
+protect.env
